@@ -1,16 +1,14 @@
-## Hi there 👋
+## Hi! I'm Carter.
 
-<!--
-**ckschwalb/ckschwalb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Forward Deployed AI Engineer who is passionate about finding root problems, solving them using AI and machine learning applications, and creating a better solution than before.
 
-Here are some ideas to get you started:
+### About me
+- Forward Deployed AI Engineer at HNI Corporation, the world's largest manufacturer of office-place furnishings.
+- Focused on developing AI applications and furthering my background in ML and statistics.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/ckschwalb)!
+
+### Tech stack
+- **Languages & Frameworks:** Python (Pandas, NumPy, scikit-learn), SQL (window functions, CTEs), Playwright, FastAPI
+- **Cloud & Data:** Azure AI Foundry, Azure DevOps, Docker, Snowflake, PostgreSQL, SQL Server, Power BI, Tableau
+- **Dev Tools:** Git/GitHub, Claude Code, Cursor, Power Automate
